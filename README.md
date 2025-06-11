@@ -4,7 +4,7 @@
 
 This case study explores how Bellabeat, a health-focused tech company, can leverage data from Fitbit users to improve its product offerings and marketing strategy. As part of the Google Data Analytics Certificate, I performed a complete SQL-based analysis of user activity and sleep behavior using SQLite and publicly available data.
 
-## View the full case study report here**: [Bellabeat Case Study.pdf](./Bellabeat%20Case%20Study.pdf)
+## View the full case study report here: [Bellabeat Case Study.pdf](./Bellabeat%20Case%20Study.pdf)
 
 
 ## Objectives
