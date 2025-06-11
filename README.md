@@ -65,6 +65,18 @@ All SQL scripts used in this case study are available in the `/sql` folder of th
 - 04_join_sleep_steps.sql
 - 05_avg_sleep_by_engagement.sql
 
+## 📎 Supporting Files
+
+This repository contains all key files used for this case study:
+
+- `bellabeat_case_study.sql` — Complete SQL scripts
+- `Bellabeat Case Study.pdf` — Final project report
+- `user_daily_summary.csv` — Aggregated user activity data
+- `step_engagement_summary.csv` — Step categorization summary
+- `avg_sleep_dur_eff.csv` — Summary of sleep metrics
+
+All data used comes from the public Fitbit dataset on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit). No personally identifiable information is included.
+
 ## Data Outputs
 
 These CSV files were generated from SQL queries run during the analysis:
