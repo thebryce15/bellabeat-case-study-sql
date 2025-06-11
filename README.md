@@ -65,6 +65,15 @@ All SQL scripts used in this case study are available in the `/sql` folder of th
 - 04_join_sleep_steps.sql
 - 05_avg_sleep_by_engagement.sql
 
+## Data Outputs
+
+These CSV files were generated from SQL queries run during the analysis:
+
+- [user_daily_summary.csv](outputs/user_daily_summary.csv)
+- [step_engagement_summary.csv](outputs/step_engagement_summary.csv)
+- [avg_sleep_dur_eff.csv](outputs/avg_sleep_dur_eff.csv)
+
+
 You can also find a full summary of queries in the case study document: `Bellabeat_Case_Study.pdf`
 
 ## Author
